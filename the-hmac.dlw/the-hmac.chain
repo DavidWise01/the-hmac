@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 2016
+slug  : the-hmac
+seal  : 6ca197b9e5eea7db4721aa3ab1690d1cef6af1ae68969ed3d5925eadef93e9ce
+prev  : 9e7ec1d6bd5b2d07565291aa04fd21a695c130453120dec53e914fe690620197
+link  : eb3732cca96242c1e7343f9839c0885a0adfb5b81ede543c3653024dd218446b
+head  : 6387af6870de4b475f9bfa3afabdd7f4465c8cf6e3cd383f9359c35f9b636cf0
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
